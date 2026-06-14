@@ -35,4 +35,3 @@ Git-GitHub-Notes/
 ## Author
 Avikam Gupta
 
-Author- Avikam Gupta
